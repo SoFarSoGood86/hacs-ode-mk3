@@ -1,5 +1,5 @@
 
-![1903-x-1040-banner-odemk3-003](https://github.com/user-attachments/assets/b7c3e53e-652a-4b51-825d-5d2135b94c0c)
+![ODE](https://github.com/user-attachments/assets/9ad2b996-48b0-4c58-bf4c-46b03a38ed77)
 
 # ODE mk3 ArtNet Integration
 
